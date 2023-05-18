@@ -1,0 +1,30 @@
+.port_title { color: #4242FB; font-size: 28pt; }
+.port_name { font-size: 18pt; font-weight: bold; }
+.port_value { font-size: 12pt; font-weight: bold; }
+.port_param { text-align: right; font-size: 12pt; }
+.port_pic { border-radius: 15px; }
+.groupbutref  { height: 15px;width: 15px;}
+.ui-dialog, .ui-datepicker { background:lightyellow !important; border: 1px solid black !important;}â€‹
+.ui-dialog-content {background: lightyellow;} 
+
+.journtable {  
+    border: 1px solid black;
+    font-size: 10px;          
+}
+.journtable  th {
+    background-color: #eeeeee;
+    padding: 3px 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.journtable  td {
+    padding: 3px 5px;
+    border: 1px solid black;
+}   
+
+.journtable  tbody tr {
+    background-color: white;
+    height: 20px;
+}
+
